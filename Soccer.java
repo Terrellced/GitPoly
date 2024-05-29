@@ -2,7 +2,7 @@ public class Soccer extends Sports{
 
     @Override
     public void play() {
-       System.out.println("You picked Soccer over football");
+       System.out.println("The Tryouts for the ECNL team will be 06/10/24");
     }
     
 }
